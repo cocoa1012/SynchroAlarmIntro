@@ -1,4 +1,4 @@
-## Synchro Alarm is an app for force you wake up without turning off the alarm clock in accident
+## Synchro Alarm is an app for forcing you to wake up without turning off the alarm clock in accident
 
 ---
 
